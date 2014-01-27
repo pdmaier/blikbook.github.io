@@ -102,10 +102,6 @@ header {
 }
 
 header h1 {
-  padding-bottom: 12px;
-
-  border-bottom: 1px solid rgb(229, 229, 229);
-
   font-family: "ff-enzo-web",sans-serif;
   font-weight: 700;
   font-size: 42px;
@@ -113,6 +109,10 @@ header h1 {
 }
 
 h3 {
+  padding-bottom: 12px;
+
+  border-bottom: 1px solid rgb(229, 229, 229);
+
   font-family: "proxima-nova",sans-serif;
   font-weight: 300;
   font-size: 24px;
